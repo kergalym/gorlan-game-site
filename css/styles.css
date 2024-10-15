@@ -11125,6 +11125,7 @@ footer.footer .social-link:hover {
   padding: 1.25rem 4.5rem;
   --bs-btn-font-size: 1.2rem;
   --bs-btn-font-weight: 600;
+  display: none;
 }
 
 .btn-download-windows {
@@ -11137,6 +11138,7 @@ footer.footer .social-link:hover {
   padding: 1.25rem 4.5rem;
   --bs-btn-font-size: 1.2rem;
   --bs-btn-font-weight: 600;
+  display: none;
 }
 
 .logo {
@@ -11160,3 +11162,14 @@ footer.footer .social-link:hover {
   padding-bottom: 3%;
 }
 
+.coming {
+  padding-top: 5%;
+  padding-bottom: 3%;
+}
+
+.count {
+  text-align: center;
+  font-size: 60px;
+  margin-top: 0px;
+  color: #f47b0f;
+}
