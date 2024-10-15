@@ -11116,7 +11116,7 @@ footer.footer .social-link:hover {
 }
 
 .btn-download-linux {
-  background-image: url("../assets/img/linux_icon.png");
+  background-image: url("../assets/img/linux_icon.png") black;
   background-repeat: no-repeat;
   background-position: right;
   background-size: 25%;
@@ -11128,7 +11128,7 @@ footer.footer .social-link:hover {
 }
 
 .btn-download-windows {
-  background-image: url("../assets/img/windows_icon.png");
+  background-image: url("../assets/img/windows_icon.png") black;
   background-repeat: no-repeat;
   background-position: right;
   background-size: 40%;
