@@ -54,7 +54,7 @@ function fadeIn(el, display) {
 };
 
 // Disable context menu
-//document.addEventListener('contextmenu', event => event.preventDefault());
+document.addEventListener('contextmenu', event => event.preventDefault());
 
 
 // Set the date we're counting down to
