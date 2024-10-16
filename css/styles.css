@@ -11173,3 +11173,10 @@ footer.footer .social-link:hover {
   margin-top: 0px;
   color: #f47b0f;
 }
+
+.img-fluid-icon {
+  max-width: 20%;
+  height: auto;
+  padding-bottom: 3%;
+  padding-right: 4%;
+}
